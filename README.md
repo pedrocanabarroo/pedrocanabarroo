@@ -1,3 +1,11 @@
+<h2 align="left">Hey there, I'm Pedro!</h2>
+
+###
+
+<p align="left">I'm a beginner software developer and also almost a mathematician, previously at UFSM and currently at UFN</p>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
@@ -29,13 +37,6 @@
   <a href="pedro.canabarro@ufn.edu.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=pedrocanabarroo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocanabarroo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
