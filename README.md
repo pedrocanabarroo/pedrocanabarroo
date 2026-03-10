@@ -2,7 +2,23 @@
 
 ###
 
-<p align="left">I'm a beginner software developer and also almost a mathematician, previously at UFSM and currently at UFN</p>
+<p align="left">
+
+Sou estudante de **Ciência da Computação (4º semestre)** e atuo no laboratório da faculdade, trabalhando na manutenção e evolução de diversos sistemas internos.
+
+---
+
+## Projetos em que trabalhei
+
+**🔹 [SGE – Sistema de Gestão de Eventos](https://sge.lapinf.ufn.edu.br/)**  
+Plataforma acadêmica para gerenciamento de eventos institucionais.
+
+**🔹 [SOM Diabetes – Sistema Online de Monitoramento da Diabetes](https://somdiabetes.lapinf.ufn.edu.br/)**  
+Sistema voltado ao acompanhamento de dados e métricas para pessoas com diabetes.
+
+**🔹 [SIEI – Sistema de Informação para Coleta de Indicadores de Atletas em Esportes de Invasão](https://siei.lapinf.ufn.edu.br/)**  
+Ferramenta de coleta, análise e visualização de indicadores esportivos.
+</p>
 
 ###
 
