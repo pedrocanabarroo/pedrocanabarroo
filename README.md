@@ -5,6 +5,7 @@
 <p align="left">
 
 Sou estudante de **Ciência da Computação (4º semestre)** e atuo no laboratório da faculdade, trabalhando na manutenção e evolução de diversos sistemas internos.
+Meu site para saber mais da minha jornada até aqui https://pedrocanabarroo.github.io/myweb/
 
 ---
 
