@@ -4,28 +4,44 @@
 
 <p align="left">
 
-Sou estudante de **Ciência da Computação (5º semestre)** e atuo no laboratório da faculdade, trabalhando na manutenção e evolução de diversos sistemas internos.
-Também sou estagiário na empresa Asten by AVMB.
+I'm a Software Developer and a Computer Science & Mathematics student from Brazil.
+
+Currently, I work as a Software Development Intern at Asten by AVMB, contributing to the development, maintenance and evolution of software solutions.
+
+My main interests are Software Engineering, Artificial Intelligence, Computational Mathematics and Web Development, combining mathematical reasoning with practical software development.
 
 Meu site para saber mais da minha jornada até aqui https://pedrocanabarroo.github.io/myweb/
 
 ---
 
-## Projetos em que trabalhei
+## 🚀 Featured Projects
 
 **🔹 [SGE – Sistema de Gestão de Eventos](https://sge.lapinf.ufn.edu.br/)**  
-Plataforma acadêmica para gerenciamento de eventos institucionais.
+Web platform developed for managing academic and institutional events, including registrations, attendance control and document generation.
+
+Technologies: Python, Django, HTML, CSS, JavaScript
+Software registered at the Brazilian National Institute of Industrial Property (INPI)
+Registration: BR512025003008-8
 
 **🔹 [SOM Diabetes – Sistema Online de Monitoramento da Diabetes](https://somdiabetes.lapinf.ufn.edu.br/)**  
-Sistema voltado ao acompanhamento de dados e métricas para pessoas com diabetes.
+Web platform focused on monitoring and managing health data for people with diabetes.
+
+Technologies: Python, Django, HTML, CSS, JavaScript
+Developed as an academic software project
+Software registered at the Brazilian National Institute of Industrial Property (INPI)
+Registration: BR512026003257-1
 
 **🔹 [SIEI – Sistema de Informação para Coleta de Indicadores de Atletas em Esportes de Invasão](https://siei.lapinf.ufn.edu.br/)**  
-Ferramenta de coleta, análise e visualização de indicadores esportivos.
+System designed for collecting, analyzing and visualizing performance indicators of athletes in invasion sports.
+
+Data collection and organization
+Performance indicator analysis
+Data visualization
 </p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -47,7 +63,7 @@ Ferramenta de coleta, análise e visualização de indicadores esportivos.
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">📫 Connect with me</h2>
 
 ###
 
