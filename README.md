@@ -10,7 +10,7 @@ Currently, I work as a Software Development Intern at Asten by AVMB, contributin
 
 My main interests are Software Engineering, Artificial Intelligence, Computational Mathematics and Web Development, combining mathematical reasoning with practical software development.
 
-Meu site para saber mais da minha jornada até aqui https://pedrocanabarroo.github.io/myweb/
+🌐 Portfolio: https://pedrocanabarroo.github.io/myweb/
 
 ---
 
