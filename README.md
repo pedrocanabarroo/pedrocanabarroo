@@ -6,8 +6,6 @@
 
 I'm a Software Developer and a Computer Science & Mathematics student from Brazil.
 
-Currently, I work as a Software Development Intern at Asten by AVMB, contributing to the development, maintenance and evolution of software solutions.
-
 My main interests are Software Engineering, Artificial Intelligence, Computational Mathematics and Web Development, combining mathematical reasoning with practical software development.
 
 🌐 Portfolio: https://pedrocanabarroo.github.io/myweb/
